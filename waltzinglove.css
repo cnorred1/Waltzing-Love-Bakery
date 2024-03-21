@@ -22,16 +22,17 @@ body {
 header { 
   background-color: #EACAFB; 
   color: #A070E8;
-  height: 128px;
+  height: 115px;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 15px;
+  padding-right: 40px;
   border-radius: 10px;
   width: 70%;
   margin: 0 auto;
   background-image: url("logo.jpg");
   background-repeat: no-repeat;
   background-position: 0px 0px;
-  background-size: 135px;
+  background-size: 120px;
 }
 
 header a { 
@@ -42,7 +43,7 @@ header a:link { color: #A070E8; }
 
 header a:visited { color: #A070E8; }
 
-header a:hover { color: #FFC0CB; }
+header a:hover { color: #8E4585; }
 
 h1 { font-size: 2em; }
 
@@ -63,7 +64,7 @@ h4 {
 nav {  
   text-align: center;
   background-color: #A070E8;
-  font-size: 1.5em;
+  font-size: 1.25em;
   padding:  1em;
   border-radius: 10px;
   width: 70%;
