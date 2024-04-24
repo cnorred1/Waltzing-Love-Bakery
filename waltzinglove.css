@@ -157,6 +157,14 @@ img {
   border-radius: 10px;
 }
 
+#flowers-staff { 
+  height: 300px;
+  background-image: url("flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: 900px 350px;
+  background-position: center;
+  border-radius: 10px;
+}
 
 #mobile { display: inline; }
 
