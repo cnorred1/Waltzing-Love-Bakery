@@ -166,10 +166,6 @@ img {
   border-radius: 10px;
 }
 
-#mobile { display: inline; }
-
-#desktop { display: none; }
-
 footer {
   background-color: #EACAFB;
   font-size: .60em;
@@ -190,3 +186,34 @@ table {
 th, td { padding: 10px; }
 
 tr:nth-of-type(odd) { background-color: #EACAFB; }
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.image {
+    border-radius: 10px;
+}
+
+.image img {
+    width: 200px;
+    height: 225px;
+    border-radius: 20px;
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+ 
+}
+.audio {
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    text-align: left;
+}
