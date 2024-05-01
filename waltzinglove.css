@@ -77,6 +77,8 @@ nav a:visited { color: #EACAFB; }
 
 nav a:hover { color: #8E4585; }
 
+.spaced { padding-right: 10px; }
+
 main {
   background-color: #FFF0F3;
   display: block;
